@@ -12,7 +12,7 @@
 
 ## How to play
 
-### The game is based on the Friday night Funkin engine so it plays exactly like that, navigate with the arrow keys and just hit the notes at the correct time 🤓, and if you struggle just get good 🤷‍♂️
+### The game is based on the Friday night Funkin engine so it plays exactly like that, navigate with the arrow keys and just hit the notes at the correct time 🤓, and if you struggle just get good 🤷‍♂️. As of right now there are only 3 maps to play but I hope we will be adding more in the future
 
 
 ## Special thanks
